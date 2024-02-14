@@ -1,6 +1,6 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
-import InjectCSS from '@vite-plugin-css-injected-by-js';
+import InjectCSS from '@vitejs/@vite-plugin-css-injected-by-js';
 import path from 'path';
 
 // https://vitejs.dev/config/
